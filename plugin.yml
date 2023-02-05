@@ -1,0 +1,9 @@
+name: Nx Affected Buildkite Plugin
+description: A handy Buildkite Plugin that simplies working with Nx Affected on Buildkite
+author: https://github.com/btjfsu
+requirements: []
+configuration:
+  properties:
+    pattern:
+      type: string
+  additionalProperties: false
